@@ -1,9 +1,10 @@
+import Sidebar from "../components/Sidebar"
 
 
 const Layout = () => {
   return (
     <div>
-      <h1>Layout</h1>
+      <Sidebar/>
     </div>
   )
 }
